@@ -10,7 +10,7 @@ public class MainClass {
     public static void main(String[] args) {
         int array[];
         int arraySize = 0;
-//test v2
+        
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         System.out.print("Enter array size: ");
         try {
